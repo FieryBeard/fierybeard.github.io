@@ -1,1 +1,0 @@
-import{_ as a,j as s,a as c,b as e,c as r}from"./index-DxtWIYpD.js";const i=i=>{var{className:d,children:l}=i,n=a(i,["className","children"]);return s.jsx("div",c(e({className:r("tgui-6c9b3f1fd52a3108",d)},n),{children:l}))};export{i as I};
