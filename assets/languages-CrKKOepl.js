@@ -1,1 +1,0 @@
-const e=[{code:"ru",label:"Русский"},{code:"en",label:"English"},{code:"de",label:"Deutsch"},{code:"fr",label:"Français"},{code:"es",label:"Español"}],l=l=>l?e.find(e=>e.code===l)?.label??l:"—";export{e as L,l as g};
